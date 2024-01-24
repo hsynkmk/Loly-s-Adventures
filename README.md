@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-Welcome to the repository for **Loly's Adventures**, an engaging and immersive story-based game developed using Unreal Engine. This project combines adventure and puzzle elements to provide players with an enjoyable experience. As players guide the main character, Loly, on a treasure hunt, they will embark on a journey filled with exploration, reasoning, and captivating story progression.
+Welcome to the repository for **Loly's Adventures**, an engaging and immersive story-based game developed using **Unreal Engine 5.2**. This project combines adventure and puzzle elements to provide players with an enjoyable experience. As players guide the main character, Loly, on a treasure hunt, they will embark on a journey filled with exploration, reasoning, and captivating story progression.
 
 ### Gameplay Video
 
