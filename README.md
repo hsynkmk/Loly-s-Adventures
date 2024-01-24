@@ -6,7 +6,7 @@ Welcome to the repository for **Loly's Adventures**, an engaging and immersive s
 
 ### Gameplay Video
 
-[![Gameplay Video](https://i.ytimg.com/an_webp/zUFG9Sy4_hQ/mqdefault_6s.webp?du=3000&sqp=CLCaxK0G&rs=AOn4CLBsoPgC59jtGgj1PmPlxB0c53aWdA)](https://youtu.be/zUFG9Sy4_hQ?si=Pt6-mbsm9KJPMAiL)
+[![Gameplay Video](https://github.com/hsynkmk/Loly-s-Adventures-UE5/assets/74134284/c515fa71-ceb0-4f6b-aba8-5c621b19c70c)](https://youtu.be/zUFG9Sy4_hQ?si=Pt6-mbsm9KJPMAiL)
 
 ## 2. Story
 
